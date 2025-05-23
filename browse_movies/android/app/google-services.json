@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394497982893",
+    "project_id": "browsemovies-bdbb2",
+    "storage_bucket": "browsemovies-bdbb2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394497982893:android:07b175b115276a5387e124",
+        "android_client_info": {
+          "package_name": "com.example.browse_movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZeHC-VYbb9C-9Uz7kMvFgRKpY5_eR60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
